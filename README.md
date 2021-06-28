@@ -1,6 +1,9 @@
 # payflow_john_nlw6
 
-A new Flutter project.
+Projeto desenvolvido durante a NLW: TOGETHER! 
+
+O payflow é um aplicativo desenvolvido com a finalidade de facilitar o gerenciamento de seus boletos!
+
 
 ## Getting Started
 
